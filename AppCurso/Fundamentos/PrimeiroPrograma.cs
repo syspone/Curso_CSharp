@@ -7,6 +7,7 @@ public class PrimeiroPrograma
         Console.WriteLine("Primeiro");
         Console.WriteLine("Primeiro Programa");
         Console.WriteLine("Terminou");
+        Console.WriteLine("Primeiro Programa");
     }
     
 }
